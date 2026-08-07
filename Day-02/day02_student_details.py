@@ -1,0 +1,6 @@
+name = input("Enter your name: ")
+college = input("Enter your college: ")
+course = input("Enter your course: ")
+print("Name:", name)
+print("College:", college)
+print("Course:", course)
