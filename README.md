@@ -12,26 +12,26 @@ Welcome to my Python learning journey! This repository documents my day-by-day p
 
 | Day | Topics | Status |
 |-----|--------|--------|
-| Day 1 | Variables & Data Types | ✅ Complete |
 | Day 2 | Input & Output | ✅ Complete |
 | Day 3 | Operators | ✅ Complete |
 | Day 4 | Conditional Statements | ✅ Complete |
 | Day 5 | Loops | ✅ Complete |
-| Day 6 | Functions | 🔄 In Progress |
-| Day 7 | File Handling | ⏳ Planned |
-| Day 8 | Modules & Packages | ⏳ Planned |
+| Day 6 | Functions | ✅ Complete |
+| Day 7 | Lists | ✅ Complete |
+| Day 8 | Tuples & Dictionaries | ✅ Complete |
 | Day 9 | Exception Handling | ⏳ Planned |
-| Day 10 | OOP | ⏳ Planned |
+| Day 10 | Modules & Packages | ⏳ Planned |
+| Day 11 | OOP Basics | ⏳ Planned |
 
 ## 📂 Repository Structure
 ```
-Day-01/
-Day-02/
-Day-03/
-Day-04/
-Day-05/
-...
-Mini-Projects/
+Day-02/   → Input & Output
+Day-03/   → Operators
+Day-04/   → Conditional Statements
+Day-05/   → Loops
+Day-06/   → Functions
+Day-07/   → Lists
+Day-08/   → Tuples & Dictionaries
 ```
 
 ## 🛠 Skills I'm Learning
