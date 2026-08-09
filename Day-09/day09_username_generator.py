@@ -1,0 +1,7 @@
+first_name = input("Enter your first name: ")
+last_name = input("Enter your last name: ")
+first_lower = first_name.lower()
+last_lower = last_name.lower()
+first_strip = first_lower.strip()
+last_strip = last_lower.strip()
+print(f"{first_strip}.{last_strip}")
