@@ -19,9 +19,10 @@ Welcome to my Python learning journey! This repository documents my day-by-day p
 | Day 6 | Functions | ✅ Complete |
 | Day 7 | Lists | ✅ Complete |
 | Day 8 | Tuples & Dictionaries | ✅ Complete |
-| Day 9 | Exception Handling | ⏳ Planned |
-| Day 10 | Modules & Packages | ⏳ Planned |
-| Day 11 | OOP Basics | ⏳ Planned |
+| Day 9 | Strings | ✅ Complete |
+| Day 10 | Exception Handling | ⏳ Planned |
+| Day 11 | Modules & Packages | ⏳ Planned |
+| Day 12 | OOP Basics | ⏳ Planned |
 
 ## 📂 Repository Structure
 ```
@@ -32,6 +33,7 @@ Day-05/   → Loops
 Day-06/   → Functions
 Day-07/   → Lists
 Day-08/   → Tuples & Dictionaries
+Day-09/   → Strings
 ```
 
 ## 🛠 Skills I'm Learning
