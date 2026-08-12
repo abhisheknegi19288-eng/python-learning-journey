@@ -1,0 +1,13 @@
+Name: abhishek
+Age: 18
+Course: bca
+Name: rahul
+Age: 19
+Course: btech
+Name: abhi
+Age: 19
+Course: cse
+Name: rahul
+Age: 18
+Course: bcom
+
